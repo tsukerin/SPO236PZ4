@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-09-29T13:02:00.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iF7mUDbDQa0zdvgmkn6_" version="22.0.0" type="device">
+  <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
+    <mxGraphModel dx="2049" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#9673a6;fillStyle=auto;gradientColor=#E39EE8;gradientDirection=north;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry y="850" width="1100" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-82" value="&amp;lt;logo&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Source Code Pro;fontColor=#F7FBFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontStyle=1;strokeWidth=7;" vertex="1" parent="1">
+          <mxGeometry x="50" y="870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;fillColor=none;gradientColor=#D1BCDB;gradientDirection=north;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="50" y="990" width="740" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-84" value="CONTENT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Source Code Pro;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-85" value="Sign out" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;fontFamily=Source Code Pro;fontColor=#F7FBFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontStyle=1;strokeWidth=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="870" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;fillColor=none;gradientColor=#D1BCDB;gradientDirection=north;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="810" y="990" width="270" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-88" value="RIGHT SIDEBAR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontFamily=Source Code Pro;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" vertex="1" parent="1">
+          <mxGeometry x="905" y="1240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-92" value="contacts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;fontFamily=Source Code Pro;fontColor=#F7FBFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontStyle=1;strokeWidth=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="880" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-93" value="about" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;fontFamily=Source Code Pro;fontColor=#F7FBFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontStyle=1;strokeWidth=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="880" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-94" value="documentation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;fontFamily=Source Code Pro;fontColor=#F7FBFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontStyle=1;strokeWidth=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="880" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-96" value="search" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;fontFamily=Source Code Pro;fontColor=#F7FBFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fontStyle=1;strokeWidth=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="880" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
