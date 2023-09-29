@@ -1,0 +1,131 @@
+<mxfile host="app.diagrams.net" modified="2023-09-29T12:51:48.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="yQA3GHl8lHgM42cwbuEj" version="22.0.0" type="device">
+  <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
+    <mxGraphModel dx="1247" dy="-163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;fillColor=#E7E7E7;gradientColor=none;gradientDirection=east;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1140" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#9673a6;fillStyle=auto;gradientColor=#E39EE8;gradientDirection=north;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry y="850" width="1100" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-4" value="Let&#39;s create your account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Source Code Pro;fontColor=#FFFAFB;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;strokeWidth=1;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="1050" width="700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;fillColor=#E7E7E7;gradientColor=none;gradientDirection=east;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1110" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;" edge="1" parent="1" source="W5YgEqe16Lk0TzKixaqZ-24" target="W5YgEqe16Lk0TzKixaqZ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-24" value="Username" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Source Code Pro;fontColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1110" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1360" as="sourcePoint" />
+            <mxPoint x="250" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-37" value="&lt;font face=&quot;Source Code Pro&quot;&gt;©Copyright 2023&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Pixelify Sans;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1660" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;" edge="1" parent="1" source="W5YgEqe16Lk0TzKixaqZ-46" target="W5YgEqe16Lk0TzKixaqZ-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="442" y="1210" />
+              <mxPoint x="350" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;fillColor=#E7E7E7;gradientColor=none;gradientDirection=east;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1170" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-50" value="E-mail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Source Code Pro;fontColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1170" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;fillColor=#E7E7E7;gradientColor=none;gradientDirection=east;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1230" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;" edge="1" parent="1" source="W5YgEqe16Lk0TzKixaqZ-53" target="W5YgEqe16Lk0TzKixaqZ-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="1270" />
+              <mxPoint x="265" y="1270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-53" value="Phone number (+7)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Source Code Pro;fontColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1230" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;fillColor=#E7E7E7;gradientColor=none;gradientDirection=east;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1290" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;" edge="1" parent="1" source="W5YgEqe16Lk0TzKixaqZ-59" target="W5YgEqe16Lk0TzKixaqZ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-59" value="Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Source Code Pro;fontColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1290" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;fillColor=#E7E7E7;gradientColor=none;gradientDirection=east;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1350" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-62" value="Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Source Code Pro;fontColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1350" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeColor=#09070A;align=center;verticalAlign=middle;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;fillColor=none;gradientColor=default;gradientDirection=south;strokeWidth=4;dashed=1;shadow=0;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1140" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-72" value="drag the file here" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Source Code Pro;fontColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="1200" width="105" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-73" value="&lt;font face=&quot;Source Code Pro&quot;&gt;Upload&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;align=center;verticalAlign=middle;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;gradientDirection=east;shadow=0;glass=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="735" y="1355" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-74" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;strokeColor=#FFF0F0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="1700" as="sourcePoint" />
+            <mxPoint x="50" y="981.304347826087" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-75" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;strokeColor=#FFF0F0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="1150" as="sourcePoint" />
+            <mxPoint x="100" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-76" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;strokeWidth=4;strokeColor=#FFF0F0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="1700" as="sourcePoint" />
+            <mxPoint x="1040" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="1364.3500000000001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-77" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;fontColor=default;strokeColor=#FFF0F0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="1020" as="sourcePoint" />
+            <mxPoint x="940" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-78" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; face=&quot;Source Code Pro&quot; style=&quot;font-size: 19px;&quot;&gt;Your avatar&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontFamily=Pixelify Sans;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="715" y="1090" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5YgEqe16Lk0TzKixaqZ-79" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; face=&quot;Source Code Pro&quot;&gt;Finish registration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;align=center;verticalAlign=middle;fontFamily=Pixelify Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPixelify%2BSans;fontSize=12;gradientDirection=east;shadow=0;glass=0;fillColor=#b365b8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1410" width="190" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
